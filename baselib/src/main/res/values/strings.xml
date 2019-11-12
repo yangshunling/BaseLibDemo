@@ -1,0 +1,5 @@
+<resources>
+    <!--网络请求回调-->
+    <string name="timeout">网络中断，请检查您的网络状态</string>
+    <string name="server">服务器连接失败！</string>
+</resources>
